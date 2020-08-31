@@ -19,8 +19,8 @@
  */
 
  const HDWalletProvider = require('@truffle/hdwallet-provider');
- const infuraKey = "https://rinkeby.infura.io/v3/1496615348ad40819bbc0f767c78c23d";
- const mnemonic = "accident deputy program jelly aunt spirit foil lawsuit ahead stick city various";
+ const infuraKey = "https://rinkeby.infura.io/v3/<Your Token>";
+ const mnemonic = "<Your Mnemonic>";
 
 module.exports = {
   /**
